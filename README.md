@@ -1,1 +1,3 @@
-# Azure-Databricks
+# Built a data lake in Azure using ADLS Gen2, ingesting the Formula1 dataset from an external API. Utilized Azure Databricks as the primary engine, implementing PySpark transformations (filter/join) and aggregations (Group By, Window Functions, SparkSQL), facilitating effective data organization and transformation.
+# Implemented Azure Data Factory for scheduling and monitoring data pipeline activities, ensuring seamless data movement. Additionally, applied the incremental load and Delta Lake for efficient management of both batch and real-time data, enhancing data update frequency and accuracy.
+#	Employed Azure Key Vault for advanced security measures, safeguarding sensitive information and ensuring project's data integrity. Incorporated PowerBI for efficient reporting and visualization, setting up alerts and log analytics for constant monitoring and maintenance of data accuracy, which boosted the data-driven decision-making processes.
